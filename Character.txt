@@ -2,3 +2,5 @@ Monkey
 Donkey
 Lion
 Elephant
+Cat
+Dog`
